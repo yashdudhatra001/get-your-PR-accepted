@@ -36,7 +36,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/get-your-PR-accepted.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -58,10 +58,10 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-your-name
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(The name of the branch does not need to have the word _add-your-name_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to the contributors list.)
 
 ## Make necessary changes and commit those changes
 

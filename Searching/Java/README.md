@@ -1,7 +1,7 @@
 # Searching Algos in _Java_
 - Give proper file names. (_PascalCasing_ is required)
     - ```
-      XyzSort.java
+      XyzSearch.java
       ```
 
 - Functional programming is must.

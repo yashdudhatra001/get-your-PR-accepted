@@ -1,4 +1,8 @@
-# get-your-PR-accepted
+<h1 align="center">get-your-PR-accepted <img src="https://visitor-badge.laobi.icu/badge?page_id=SamarjeetBanik.get-your-PR-accepted" alt="visitCount"></h1>
+
+<p align="center">
+    <img src="https://github.com/HacOkars/Hacktoberfest-2021/blob/main/assets/images/logo-hacktoberfest-2021.svg" alt="Hacktoberfest-2021 Logo" width="350">
+</p>
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your contribution to <b>Open Source</b> projects during _Hacktoberfest 2021_, follow the steps below.
 
@@ -108,3 +112,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
 Now let's get you started with contributing to other projects. I have compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+
+# Thank You!

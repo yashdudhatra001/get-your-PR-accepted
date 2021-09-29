@@ -1,7 +1,7 @@
 # Searching Algos in _C_
 - Give proper file names. (_PascalCasing_ is required)
     - ```
-      XyzSort.c
+      XyzSearch.c
       ```
 
 - Functional programming is must.

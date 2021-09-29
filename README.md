@@ -115,4 +115,4 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Now let's get you started with contributing to other projects. I have compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-# Thank You!
+<h1 align="center">Thank You!</h1>

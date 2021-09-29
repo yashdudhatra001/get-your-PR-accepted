@@ -1,7 +1,7 @@
 # Searching Algos in _C++_
 - Give proper file names. (_PascalCasing_ is required)
     - ```
-      XyzSort.cpp
+      XyzSearch.cpp
       ```
 
 - Functional programming is must.

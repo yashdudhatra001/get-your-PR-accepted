@@ -1,7 +1,7 @@
 # Searching Algos in _Python_
 - Give proper file names. (_PascalCasing_ is required)
     - ```
-      XyzSort.py
+      XyzSearch.py
       ```
 
 - Functional programming is must.

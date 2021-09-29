@@ -6,7 +6,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your contribution to <b>Open Source</b> projects during _Hacktoberfest 2021_, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with command line, [here are tutorials using Git GUI tool.](https://www.geeksforgeeks.org/working-on-git-for-gui/)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -46,7 +46,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd get-your-PR-accepted
 ```
 
 Now create a branch using the `git checkout` command:

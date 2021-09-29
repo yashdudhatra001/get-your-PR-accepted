@@ -6,6 +6,8 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your contribution to <b>Open Source</b> projects during _Hacktoberfest 2021_, follow the steps below.
 
+<h3><p align="center">P.S.: This is a <i>DS-ALGO HELPER REPO</i>! You have to add the above mentioned algos into this "<i>fill-up series</i>" repository.</p></h3>
+
 _If you're not comfortable with command line, [here are tutorials using Git GUI tool.](https://www.geeksforgeeks.org/working-on-git-for-gui/)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />

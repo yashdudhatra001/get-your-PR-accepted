@@ -3,12 +3,12 @@ class Sort {
     {
         int temp;
  
-        for (int i = arr.length / 2 - 1; i >= 0; i--)       
+        for (int i = arr.length / 2 - 1; i >= 0; i--)        //build the heap
         {
             heapify(arr, arr.length, i);
         }
  
-        for (int i = arr.length - 1; i > 0; i--)            
+        for (int i = arr.length - 1; i > 0; i--)            //extract elements from the heap
         {
             temp = arr[0];                              
             arr[0] = arr[i];
@@ -24,17 +24,17 @@ class Sort {
         int right = 2 * i + 2;
         int temp;
 
-        if (left < n && arr[left] > arr[MAX])   
+        if (left < n && arr[left] > arr[MAX])                //check if the left child of the root is larger than the root
         {
             MAX = left;
         }
  
-        if (right < n && arr[right] > arr[MAX])
+        if (right < n && arr[right] > arr[MAX])              //check if the right child of the root is larger than the root 
         {
             MAX = right;
         }
  
-        if (MAX != i) 
+        if (MAX != i)                                       //repeat the procedure for finding the largest element in the heap
         {                              
             temp = arr[i];
             arr[i] = arr[MAX];
@@ -43,7 +43,7 @@ class Sort {
         }
     }
  
-    void display(int arr[])             
+    void display(int arr[])                       //display the array
     {  
         for (int i=0; i<arr.length; ++i) 
         {

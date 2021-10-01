@@ -10,14 +10,13 @@ def selection_sort(arr):
             if arr[min_idx] > arr[j]:
                 min_idx = j
 
-        # Swap the found minimum element with
-        # the first element
+        # Swap the found minimum element with the first element
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
 
 
 # Driver function
 if __name__ == '__main__':
-    ls = list(map(int, input().split()))  # Taking 'ls' list input as elements separated by space
+    ls = list(map(int, input().split()))  # Taking 'ls' list input as integers separated by space
     selection_sort(ls)  # Calling the Selection_sort function by passing the 'ls' list
 
     # Printing the sorted list

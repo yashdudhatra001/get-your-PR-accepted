@@ -15,6 +15,8 @@
  //Program to perform searching in BST
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
+      // run while roop with condition where root is not null
+      //if the root will be null at first, it will return null
         while(root!=null)
         {
             if(val==root.val)

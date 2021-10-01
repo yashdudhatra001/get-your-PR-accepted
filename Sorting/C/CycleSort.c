@@ -57,3 +57,5 @@ void cycle_sort(int * a)
         }while (pos != i);
     }
 }
+#It is optimal in terms of number of memory writes. It minimizes the number of memory writes to sort (Each value is either written zero times, if it’s already in its correct position, or written one time to its correct position.)
+#It is based on the idea that array to be sorted can be divided into cycles. Cycles can be visualized as a graph.

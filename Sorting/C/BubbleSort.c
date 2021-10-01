@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 // function to sort
 void bubbleSort(int array[], int n) {
   int temp,i,j;
 
+  /* sorting in ascending order */
   for(i=0;i<n-1;i++){
 	for(j=0;j<n-i-1;j++){  //after first iteration the largest element will be at its position;
 		if(array[j]>array[j+1]){   //compare the element with adjacent element to find smallest element 
@@ -14,6 +16,7 @@ void bubbleSort(int array[], int n) {
 	}	
   }
 }
+
 // function to print array elements
 void printArray(int array[], int size) {
   for (int i = 0; i < size; ++i) {
@@ -29,7 +32,7 @@ int main() {
   printf("Unsorted Array\n");
   printArray(data, n);
   
-  bubbleSort(data, n);
+  bubbleSort(data, n); /* calling the bubbleSort function by passing the array and the size of the array */
   printf("Sorted array in ascending order: \n");
   printArray(data, n);
 }

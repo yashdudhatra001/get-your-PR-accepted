@@ -1,4 +1,4 @@
-// Create a linked list connected to its adjacent matrices.
+// Create a linked list connected to its adjacent vertices.
 
 #include<stdio.h>
 #include<stdlib.h>

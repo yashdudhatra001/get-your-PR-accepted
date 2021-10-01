@@ -1,3 +1,5 @@
+// Create a linked list connected to its adjacent matrices.
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Next

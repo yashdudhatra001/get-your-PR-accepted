@@ -1,4 +1,4 @@
-#Python program for implementation of Insertion Sort
+# Python program to implement Insertion Sort
 
 def insertion_sort(arr):
     # Traverse through 1 to len(arr)
@@ -11,9 +11,11 @@ def insertion_sort(arr):
             j = j - 1
         arr[j + 1] = key
 
-
+# Driver function
 if __name__ == '__main__':
     
     nums=list(map(int,input().split()))
-    insertion_sort(nums)
+    insertion_sort(nums) # Calling the insertion_sort function by passing the 'nums' list
+    
+    # Printing the sorted list
     print(nums)

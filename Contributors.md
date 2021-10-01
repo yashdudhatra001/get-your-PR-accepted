@@ -5,6 +5,7 @@
 - [Narayan Soni](https://github.com/narayan954)
 - [Shravya](https://github.com/ShravyaMallya)
 - [Ishita Karandikar](https://github.com/ishitakarandikar)
+- [Abhijeet Anand](https://github.com/Abhijeet-Anand-01)
 - [Nisha Srivastava](https://github.com/newbiens)
 - [Pulkit Bhargava](https://github.com/Pulkit007)
 - [Yash Sanghvi](https://github.com/yashsanghvi001)
